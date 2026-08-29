@@ -1,0 +1,6 @@
+{
+  "name": "AgriSense AI - Smart Farmer Multi-Factor Advisory",
+  "description": "Unified agricultural decision support combining crop photo vision AI, soil health IoT telemetry, and microclimate weather forecasting for holistic pest, disease, and farm management.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
